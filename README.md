@@ -1,4 +1,4 @@
-:boom: # git-project-lipik 2021 :boom:
+# :boom: git-project-lipik 2021 :boom:
 
 ## Description
 
