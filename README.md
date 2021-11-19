@@ -1,4 +1,4 @@
-# :boom: git-project-lipik 2021 :boom:
+# :boom: Lipik artificial intelligence course 21/22 :boom:
 
 ## Description
 
