@@ -1,0 +1,61 @@
+,Destination,Prices,Departure date:,Date of Arrival:,Airline
+0,Valletta,180 kn,Sat 4 Dec,Sat 4 Dec,Ryanair
+1,Paphos,211 kn,Sat 4 Dec,Mon 6 Dec,Ryanair
+2,Tallinn,300 kn,Sat 4 Dec,Sun 12 Dec,Ryanair
+3,Brussels,173 kn,Sun 5 Dec,Wed 8 Dec,Ryanair
+4,Manchester,180 kn,Sun 5 Dec,Sun 5 Dec,Ryanair
+5,Banja Luka,225 kn,Sun 5 Dec,Mon 6 Dec,Ryanair
+6,Málaga,255 kn,Sun 5 Dec,Wed 8 Dec,Ryanair
+7,Paris,278 kn,Sun 5 Dec,Wed 8 Dec,Ryanair
+8,Bratislava,301 kn,Sun 5 Dec,Sun 12 Dec,Ryanair
+9,Douala,10.465 kn,Sun 5 Dec,Mon 3 Jan,Ryanair + Turkish Airlines
+10,Gothenburg,203 kn,Mon 6 Dec,Wed 8 Dec,Ryanair
+11,Vilnius,301 kn,Mon 6 Dec,Wed 8 Dec,Ryanair
+12,Malmo,76 kn,Tue 7 Dec,Tue 14 Dec,Ryanair
+13,Harare,5.259 kn,Thu 9 Dec,Mon 27 Dec,KLM + Airlink
+14,Dublin,278 kn,Fri 10 Dec,Tue 18 Jan,Ryanair
+15,Lviv,293 kn,Fri 10 Dec,Mon 13 Dec,Ryanair + Wizz Air
+16,Baden-Baden,75 kn,Sat 11 Dec,Tue 14 Dec,Ryanair
+17,Thessaloniki,107 kn,Sun 12 Dec,Thu 23 Dec,Ryanair
+18,Thessaloniki,218 kn,Sun 12 Dec,Sun 12 Dec,Ryanair
+19,Reykjavik,549 kn,Sun 12 Dec,Wed 29 Dec,Ryanair + Wizz Air
+20,Riga,210 kn,Mon 13 Dec,Wed 15 Dec,Ryanair
+21,Basel,413 kn,Mon 13 Dec,Tue 14 Dec,Ryanair + Wizz Air
+22,Chisinau,862 kn,Mon 13 Dec,Thu 16 Dec,Ryanair + Wizz Air
+23,Milan,82 kn,Tue 14 Dec,Thu 16 Dec,Ryanair
+24,St Petersburg,823 kn,Tue 14 Dec,Sat 18 Dec,Ryanair + Wizz Air
+25,Bishkek,3.003 kn,Thu 16 Dec,Sun 19 Dec,Turkish Airlines
+26,Eindhoven,86 kn,Fri 17 Dec,Tue 21 Dec,Ryanair
+27,Paphos,127 kn,Fri 17 Dec,Mon 20 Dec,Ryanair
+28,Gdansk,212 kn,Sun 19 Dec,Wed 29 Dec,Ryanair
+29,Dublin,225 kn,Sun 19 Dec,Wed 5 Jan,Ryanair
+30,Málaga,187 kn,Tue 21 Dec,Tue 28 Dec,Ryanair
+31,Eindhoven,188 kn,Thu 23 Dec,Thu 6 Jan,Ryanair
+32,Phnom Penh,5.072 kn,Fri 24 Dec,Fri 7 Jan,Turkish Airlines + Malaysia Airlines
+33,Belize City,8.940 kn,Fri 24 Dec,Sat 8 Jan,Lufthansa + United
+34,Entebbe,3.900 kn,Sat 25 Dec,Sat 1 Jan,Qatar Airways
+35,Billund,293 kn,Thu 30 Dec,Mon 3 Jan,Ryanair
+36,Moscow,1.309 kn,Fri 31 Dec,Mon 10 Jan,Nordwind Airlines
+37,Podgorica,107 kn,Sat 1 Jan,Sat 8 Jan,Ryanair
+38,Managua,12.573 kn,Wed 5 Jan,Thu 20 Jan,Ryanair + TACA
+39,Bucharest,283 kn,Tue 11 Jan,Thu 13 Jan,Ryanair + Wizz Air
+40,Oslo,180 kn,Wed 12 Jan,Wed 19 Jan,Ryanair
+41,Istanbul,888 kn,Wed 12 Jan,Tue 18 Jan,Ryanair + Pegasus Airlines
+42,Kyiv,1.683 kn,Wed 12 Jan,Sun 16 Jan,Windrose
+43,Prague,278 kn,Thu 13 Jan,Sun 16 Jan,Ryanair
+44,Abu Dhabi,1.157 kn,Thu 13 Jan,Thu 20 Jan,Ryanair + Wizz Air Abu Dhabi
+45,San Salvador,6.593 kn,Thu 13 Jan,Mon 17 Jan,KLM + Avianca
+46,Naples,173 kn,Fri 14 Jan,Mon 17 Jan,Ryanair
+47,Budapest,270 kn,Fri 14 Jan,Mon 31 Jan,Ryanair
+48,Cotonou,6.063 kn,Sat 15 Jan,Mon 31 Jan,KLM + Air France
+49,Porto,316 kn,Sun 16 Jan,Mon 24 Jan,Ryanair
+50,Belgrade,513 kn,Mon 17 Jan,Sat 22 Jan,Ryanair + Wizz Air
+51,Tirana,541 kn,Mon 17 Jan,Fri 21 Jan,Ryanair + Wizz Air
+52,Skopje,541 kn,Mon 17 Jan,Fri 21 Jan,Ryanair + Wizz Air
+53,Manama,2.526 kn,Mon 17 Jan,Fri 21 Jan,Air Serbia + Pegasus Airlines
+54,Guatemala City,4.617 kn,Mon 17 Jan,Mon 18 Apr,United
+55,Podgorica,232 kn,Tue 18 Jan,Sat 22 Jan,Ryanair
+56,Gibraltar,633 kn,Thu 20 Jan,Mon 24 Jan,Ryanair + Wizz Air UK
+57,Baghdad,2.370 kn,Thu 20 Jan,Thu 27 Jan,Ryanair + Pegasus Airlines
+58,Bridgetown,4.079 kn,Thu 20 Jan,Thu 27 Jan,KLM
+59,Quito,5.456 kn,Thu 20 Jan,Thu 31 Mar,Croatia Airlines + United

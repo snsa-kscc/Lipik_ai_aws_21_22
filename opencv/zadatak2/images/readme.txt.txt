@@ -1,0 +1,1 @@
+Ovo su besplatne slike skinute sa https://pixabay.com/

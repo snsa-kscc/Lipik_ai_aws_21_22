@@ -1,0 +1,1 @@
+Ovdje pohranite grayscale slike.
