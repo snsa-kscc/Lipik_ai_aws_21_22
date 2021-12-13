@@ -17,7 +17,6 @@ slika = cv2.imread('kamera1.jpg', cv2.IMREAD_COLOR)
 # slika[10:50, 40:60, :] = [0, 0, 255]
 
 silka = slika[:, :, :2] = 0
-
 cv2.imshow('image', slika)
 cv2.waitKey(5000)
 cv2.destroyAllWindows()
