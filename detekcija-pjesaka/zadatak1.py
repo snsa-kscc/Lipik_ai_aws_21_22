@@ -52,9 +52,9 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
 
 classifier = MLPClassifier(random_state=1)
 classifier.fit(x_train, y_train)
-score = classifier.score(x_test, y_test)
 
-print(score)
+# score = classifier.score(x_test, y_test)
+# print(score)
 
 test_img = cv2.imread("dataset/test_img.png", cv2.IMREAD_GRAYSCALE)
 img_height = test_img.shape[0]
@@ -75,13 +75,10 @@ for i in range(0, img_height - mean_image_height - 1, 10):
         if pedestrian_probabilities > max_pedestrian_probability:
             max_pedestrian_probability = pedestrian_probabilities
             final_top_left_bb = (j, i)
-            final_bottom_right_bb = (i+mean_image_height, j+mean_image_width)
-
+            final_bottom_right_bb = (j+mean_image_width, i+mean_image_height)
 
 detection_img = cv2.rectangle(
     test_img, final_top_left_bb, final_bottom_right_bb, 255, 2)
 cv2.imshow("detection", detection_img)
 cv2.waitKey()
 cv2.destroyAllWindows()
-
-print("hi mom")
